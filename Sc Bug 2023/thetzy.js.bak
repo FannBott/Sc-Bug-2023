@@ -16,14 +16,14 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //=================================================//
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://www.youtube.com/@dvsharkyt'
-global.ig = 'https://instagram.com/mr.ziee_'
+global.youtube = '-'
+global.ig = 'https://instagram.com/xbs_saa'
 global.mygc = '-'
 global.myweb = '-'
 global.linkgrupss = "-"
 global.linkpro = 'mailto:support@whatsapp.com?subject=Deactivate%20My%20Account%20Number&body=Please%20Deactivate%20The%20My%20Account%20Number%20%2B62XXXXXXXX%20Immediately%20Because%20The%20Number%20Has%20Been%20Lost'
 global.linkun = 'mailto:support@whatsapp.com?subject=المساعدة%20في%20إلغاء%20حظر%20رقمي&body=Admins%20Whatsapp%20😰kenapa%20nomer%20saya%20(%20+62xx%20)%20di%20blokir%20padahal%20saya%20tidak%20melakukan apa%20apa%20nomer%20saya%20hanya%20di%20pinjam%20oleh%20saudara%20saya%20yang%20tinggal%20di%20amerika😢1hari%20kemuadian%20nomernya%20di%20blokir mohon%20atas%20ketidaknyamananya%20di%20perbaiki 😩salam%20hangat'
-global.email = 'zieesenpai@gmail.com'
+global.email = 'satriaesemka@gmail.com'
 global.region = 'Indonesia'
 global.f1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
 global.f2 = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
@@ -32,13 +32,13 @@ global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
 //—————「 Set Nama Own & Bot 」—————//
-global.nomerOwner = "6285773914826" //Bebas ganti 
-global.namaOwner = "𝙼r Zi𝚎𝚎" //Bebas ganti
-global.footer = '𝙼r Zi𝚎𝚎' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.nomerOwner = "855388410032" //Bebas ganti 
+global.namaOwner = "satria cool" //Bebas ganti
+global.footer = 'sattz cool' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
-global.packname = '© 𝙼r Zi𝚎𝚎'
-global.ownerr = ['𝙼r Zi𝚎𝚎']
-global.author = '[⫹⫺ - 𝙼r Zi𝚎𝚎]'
+global.packname = '© satria'
+global.ownerr = ['satria cool']
+global.author = '[⫹⫺ - satria cool]'
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
