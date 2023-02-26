@@ -5,25 +5,25 @@ const chalk = require("chalk")
 
 exports.menunya = (m) => {
 return `
-╭──(          𝙼r Zi𝚎𝚎          )
+╭──(        satria esemka          )
 ║-> Sc : Private 友
 │⫹⫺ Name : ${m.pushName}
 ║▬▭▬▭▬▭▬▭▬▭
-│⫹⫺ Creator : *𝙼r Zi𝚎𝚎*
-║⫹⫺ Bot Name : *Zi𝚎𝚎 Bug*
+│⫹⫺ Creator : *satt cool*
+║⫹⫺ Bot Name : *sattz botz*
 │⫹⫺ Version : *4.4.4*
 ║⫹⫺ Running In : 𝕻𝖆𝖓𝖊𝖑 𝖔𝖓𝖑𝖞
 │▬▭「 My Support 」▭▬
 ║
-│⿻ YouTube : https://youtube.com/@dvsharkyt
-║⿻ Instagram¹ : https://instagram.com/mr.ziee_
-║⿻ Instagram² : https://instagram.com/zielyx_shop
+│⿻ YouTube : gada
+║⿻ Instagram¹ : https://instagram.com/xbs_saa
+║⿻ Instagram² : https://instagram.com/4E_saa
 ║
 ┗━━━━━━━━━━━━━━━━━━⬣
 ╔─═─═⊱ *「 JOIN GROUP 」* ─═─═⬣
 │┏⊱
-║⿻ *My Group¹*️ : _https://chat.whatsapp.com/BfHjaA2C4ZeII37H59dm24_
-│⿻ *My Group²* : _https://chat.whatsapp.com/IzpBaUWFARP5ZQuDgnHjh0_
+║⿻ *My Group¹*️ : _https://chat.whatsapp.com/CFolOMLAafa3ygsE4gfrvA_
+│⿻ *My Group²* : gada cuma 1 di atas
 ║┗⊱
 ┗━━━━━━━━━━━━━━━━━━⬣
 ┏━━━━━━━━━━━━━━━━━━⬣
@@ -221,6 +221,7 @@ return `
 │⿻ Viosgc [ Group Chat ]
 ║⿻ Vandrogc [ Group Chat ]
 │┗⊱
+│┗⊱ NOTE : KHUSUS OWNER NI 🗿
 ┗━━━━━━━━━━━━━━━━━━⬣
 
 ╔─═⊱ *「 GROUP MENU 」* ─═⬣
@@ -826,7 +827,7 @@ return `
 ┃ 🔥 Aztecs
 ┃ 🔥 Xinn
 ┃ 🔥 Amel
-┗━━⬣  ⿻ 𝙼r Zi𝚎𝚎 ⿻
+┗━━⬣  ⿻ satria esemka ⿻
 `
 }
 
